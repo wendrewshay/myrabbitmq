@@ -1,4 +1,4 @@
-package com.example.myrabbitmq.rpc;
+package com.example.myrabbitmq.rpc.demo1;
 
 import com.rabbitmq.client.*;
 

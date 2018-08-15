@@ -1,9 +1,8 @@
-package com.example.myrabbitmq.rpc;
+package com.example.myrabbitmq.rpc.demo1;
 
 import com.rabbitmq.client.*;
 
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 import java.util.UUID;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
